@@ -1,0 +1,41 @@
+#body{
+
+    
+    border: 2px solid rgb(109, 160, 42);
+  border-radius: 5px;
+  
+}
+
+#apple{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkseagreen;
+    font-size: xx-large;
+    
+}
+
+#img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
+}
+
+#h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkseagreen;
+    padding: 30px;
+}
+#ul{
+    font-family: sans-serif;
+    color: rgb(226, 45, 166);
+    margin: 20px;
+    line-height: 2rem;
+   
+}
+#a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkseagreen;
+    padding: 30px;
+}
